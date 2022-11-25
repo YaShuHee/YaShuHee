@@ -1,4 +1,4 @@
-- 👋😀 Hi, I’m Timothé Gélibert, aka @YaShuHee ! 
+- 👋😀 Hi, I’m [Timothé Gélibert](https://timothe-gelibert.fr), aka @YaShuHee ! 
 - 🛸 I’m a French Backend developper living in Bordeaux.
 - 🐍 I've been practicing Python 3 since 2013.
 - ☕ I also code some HTML, CSS and JavaScript.
