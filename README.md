@@ -2,4 +2,4 @@
 - 🛸 I’m a French developper living in Bordeaux.
 - 🐍 I've been practicing Python 3 since 2013.
 - ☕ I code in Python, Java, C, C++, C#, PHP and JavaScript.
-- 🌱 I’m currently open to work (you can email me at "tim.gelibert<at>protonmail.com") !
+- 🌱 I’m currently open to work (you can email me at "tim.gelibert_at_protonmail.com") !
